@@ -1,0 +1,63 @@
+body {
+  background-color: #303554;
+}
+
+a {
+  text-decoration: none;
+}
+
+.페이지1 {
+  text-align: center;
+  margin: 100px;
+}
+
+.구글 {
+  margin: 0 auto;
+}
+
+.구글 img {
+  width: 350px;
+}
+
+.구글2 {
+  width: 350px;
+  border: 1px solid #303554;
+  border-radius: 20px;
+  background-color: aliceblue;
+  text-align: center;
+  margin: 0 auto;
+  font-size: 12px;
+}
+
+.페이지2 {
+  text-align: center;
+  margin: 100px;
+}
+
+.구글3 {
+  width: 350px;
+  border: 1px solid #303554;
+  border-radius: 50px;
+  background-color: aliceblue;
+  text-align: center;
+  margin: 0 auto;
+  font-size: 20px;
+}
+
+.구글 {
+  margin: 0 auto;
+}
+
+.구글4 img {
+  width: 350px;
+}
+
+.구글5 {
+  width: 350px;
+  border: 1px solid #303554;
+  border-radius: 50px;
+  background-color: aliceblue;
+  text-align: center;
+  margin: 0 auto;
+  font-size: 13px;
+}

@@ -1,0 +1,75 @@
+body {
+  background-color: rgb(119, 119, 119);
+}
+
+a {
+  text-decoration: none;
+}
+
+.p-Tags {
+  width: 300px;
+  background-color: rgba(255, 225, 185, 0.719);
+  box-shadow: 5px 5px 10px rgba(168, 92, 0, 0.678);
+  border: 1px solid black;
+  border-radius: 5px;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+.p-Tags a {
+  color: chocolate;
+}
+
+.block {
+  background-color: rgba(0, 255, 115, 0.336);
+}
+
+.border {
+  border: 1px solid red;
+}
+
+/* p {
+  width: 300px;
+  height: 50px;
+  border: 1px solid rgb(255, 255, 255);
+} */
+
+.p-Tags2 {
+  width: 300px;
+  height: 30px;
+  border: 2px dotted rgb(255, 196, 0);
+  border-radius: 10px;
+  background-color: rgba(240, 248, 255, 0.411);
+}
+
+.box {
+  border: 1px solid #000;
+  height: 30px;
+}
+
+.style1 {
+  border: 1px solid #000;
+  border-radius: 10px;
+  background-color: rgba(255, 228, 196, 0.397);
+  padding: 10px;
+}
+
+.box2 {
+  border: 3px dotted rgb(0, 47, 255);
+  margin-top: 20px;
+  margin-right: 50px;
+  margin-bottom: 30px;
+  margin-left: 40px;
+  padding: 30px;
+}
+
+.inline-box {
+  border: 3px solid blue;
+}
+
+span {
+  display: block;
+}
+
+/* html문서에 태그 추가 없이 span display를 block으로 주면 자동으로 줄바꿈 됌 */

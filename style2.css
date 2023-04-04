@@ -1,0 +1,24 @@
+body {
+  background-color:aliceblue;
+}
+
+.b-weight {
+  display: block;
+  /* font-weight:bold; */
+  /* font-weight: 700; 으로 써도 똑같음 */
+  font-weight: 900;
+}
+
+.Italic {
+  display: block;
+  font-style: italic;
+}
+
+.del {
+  display: block;
+  text-decoration: line-through;
+}
+.under {
+  display: block;
+  text-decoration: underline;
+}
